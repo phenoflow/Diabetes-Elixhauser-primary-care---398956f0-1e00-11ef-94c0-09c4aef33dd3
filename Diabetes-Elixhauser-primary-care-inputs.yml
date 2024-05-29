@@ -1,0 +1,249 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/noninsulindependent-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule3:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule4:
+  class: File
+  path: python/antidiabetic-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-control---primary.py
+inputModule6:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-mellitus---primary.py
+inputModule7:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-diabetologist---primary.py
+inputModule8:
+  class: File
+  path: python/clinical-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule9:
+  class: File
+  path: python/pancreatic-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule10:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-wellbeing---primary.py
+inputModule11:
+  class: File
+  path: python/hypoglycaemic-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-complication---primary.py
+inputModule13:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-malnutritionrelated---primary.py
+inputModule14:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-refer---primary.py
+inputModule15:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-screener---primary.py
+inputModule16:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-advice---primary.py
+inputModule17:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-youth---primary.py
+inputModule18:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-retinop---primary.py
+inputModule19:
+  class: File
+  path: python/ketoacidotic-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule20:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-record---primary.py
+inputModule21:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-check---primary.py
+inputModule22:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-review---primary.py
+inputModule23:
+  class: File
+  path: python/dominant-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule24:
+  class: File
+  path: python/digital-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule25:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-agreed---primary.py
+inputModule26:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-compliance---primary.py
+inputModule27:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-followup---primary.py
+inputModule28:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-monitor---primary.py
+inputModule29:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-attended---primary.py
+inputModule30:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-discharged---primary.py
+inputModule31:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-default---primary.py
+inputModule32:
+  class: File
+  path: python/steroid-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule33:
+  class: File
+  path: python/juvenile-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule34:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-satisfaction---primary.py
+inputModule35:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-invite---primary.py
+inputModule36:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-offered---primary.py
+inputModule37:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-ketoacidosis---primary.py
+inputModule38:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-preconception---primary.py
+inputModule39:
+  class: File
+  path: python/multidisciplinary-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule40:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-remission---primary.py
+inputModule41:
+  class: File
+  path: python/nonketotic-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule42:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-mention---primary.py
+inputModule43:
+  class: File
+  path: python/patient-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule44:
+  class: File
+  path: python/moderate-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule45:
+  class: File
+  path: python/unsuitable-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule46:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-program---primary.py
+inputModule47:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-dissent---primary.py
+inputModule48:
+  class: File
+  path: python/under-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule49:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-assessment---primary.py
+inputModule50:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-selfmanagement---primary.py
+inputModule51:
+  class: File
+  path: python/dietary-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule52:
+  class: File
+  path: python/diabetes---primary.py
+inputModule53:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-completed---primary.py
+inputModule54:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-maturity---primary.py
+inputModule55:
+  class: File
+  path: python/unstable-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule56:
+  class: File
+  path: python/annual-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule57:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-counselling---primary.py
+inputModule58:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-examination---primary.py
+inputModule59:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-service---primary.py
+inputModule60:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-increased---primary.py
+inputModule61:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-given---primary.py
+inputModule62:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-provision---primary.py
+inputModule63:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-specified---primary.py
+inputModule64:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-indicated---primary.py
+inputModule65:
+  class: File
+  path: python/secondary-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule66:
+  class: File
+  path: python/latent-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule67:
+  class: File
+  path: python/nephropathy-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule68:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-shared---primary.py
+inputModule69:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-pregnancy---primary.py
+inputModule70:
+  class: File
+  path: python/hyperosmolar-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule71:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-driving---primary.py
+inputModule72:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-excretion---primary.py
+inputModule73:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-education---primary.py
+inputModule74:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-audit---primary.py
+inputModule75:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-declined---primary.py
+inputModule76:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-state---primary.py
+inputModule77:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-consent---primary.py
+inputModule78:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-quality---primary.py
+inputModule79:
+  class: File
+  path: python/adult-diabetes-uncomplicated-elixhauser-primary-care---primary.py
+inputModule80:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-preexisting---primary.py
+inputModule81:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-manifestation---primary.py
+inputModule82:
+  class: File
+  path: python/diabetes-uncomplicated-elixhauser-primary-care-register---primary.py
+inputModule83:
+  class: File
+  path: python/output-cases.py
